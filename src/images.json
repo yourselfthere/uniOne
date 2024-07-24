@@ -1,0 +1,27 @@
+[
+  {
+    "src": "/assets/images/college.jpg",
+    "alt": "Sports Day",
+    "description": "Students participating in various sports events."
+  },
+  {
+    "src": "/assets/images/college.jpg",
+    "alt": "Science Exhibition",
+    "description": "Students presenting their science projects."
+  },
+  {
+    "src": "/assets/images/college.jpg",
+    "alt": "Cultural Fest",
+    "description": "Students performing in the cultural fest."
+  },
+  {
+    "src": "/assets/images/college.jpg",
+    "alt": "Classroom",
+    "description": "A glimpse of our interactive classrooms."
+  },
+  {
+    "src": "/assets/images/college.jpg",
+    "alt": "Library",
+    "description": "Students reading and studying in the school library."
+  }
+]
